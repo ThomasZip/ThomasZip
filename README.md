@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋I'm Tom Saunders and I am an aspiring web developer. I would love to start my own buisness and travel around the country doing this work. 
 
 <!--
 **ThomasZip/ThomasZip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
